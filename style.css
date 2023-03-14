@@ -13,4 +13,3 @@
   /* 画像が浮いて見えるように陰を付ける */
   filter: drop-shadow(2rem .5rem .75rem var(--dark));
 }
-
