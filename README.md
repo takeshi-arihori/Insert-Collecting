@@ -1,8 +1,11 @@
 # Insert-Collecting
 
-### Bootstrap を使って昆虫採集アプリの画面を作成中。
+### Bootstrapの練習の一環で昆虫採集アプリの画面を作成しました。
 
 [サイトはこちら]( https://takeshi-arihori.github.io/Insert-Collecting/)
 
-#### オンライン学習プラットフォーム RecursionCSのカリキュラム。
-#### Bootstrapを使った簡単なサイトを作成
+オンライン学習プラットフォーム RecursionCSのカリキュラム。　　
+
+Bootstrapを使った簡単なサイトを作成。　　　
+
+静的サイトなのでクリックしてもアクセスできませんが、、、　　
